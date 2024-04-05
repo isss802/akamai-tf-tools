@@ -1,0 +1,21 @@
+{
+    "name": "DS2",
+    "children": [],
+    "behaviors": [
+        {
+            "name": "datastream",
+            "options": {
+                "streamType": "LOG",
+                "logStreamTitle": "",
+                "logEnabled": true,
+                "logStreamName": [
+                    ""
+                ],
+                "samplingPercentage": 100
+            }
+        }
+    ],
+    "criteria": [],
+    "criteriaMustSatisfy": "all",
+    "comments": ""
+}
